@@ -13,11 +13,11 @@
   text-align: center;
   padding-bottom: 20px;
   font-style: italic;
-  color: goldenrod;
+  color: darkmagenta;
 }
 .content {
   font-size: 20px;
-  color: blue;
+  color: darkslategray;
 }
 #submit_btn {
   text-align: center;
@@ -34,5 +34,5 @@
 }
 #submit_btn > button:hover {
   cursor: pointer;
-  background-color: rgb(66, 231, 66);
+  background-color: rgb(48, 148, 48);
 }
